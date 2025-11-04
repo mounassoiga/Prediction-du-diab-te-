@@ -59,7 +59,7 @@ Le dataset contient des informations cliniques et comportementales sur des patie
 
 ---
 
-## 📊 Résultats principaux
+## Résultats principaux
 
 - **Meilleur modèle :** Logistic Regression
 - **Accuracy :** ~0.52 
@@ -68,6 +68,8 @@ Le dataset contient des informations cliniques et comportementales sur des patie
 - **Variables les plus importantes avec RFE :** Serum_Urate, Family_History_of_Diabete, Ethnicity_Black, Ethnicity_Hispanic,Ethnicity_White,Physical_Activity_Level_Low, Physical_Activity_Level_Moderate, Smoking_Status_Former, Smoking_Status_Never, Alcohol_Consumption_Moderate
   
 ---
+## Exploartion des  Résultats 
+ ces resultats ont été confirmé par des analyses sur Weka et Orange
 ---
 
 ## 👩‍💻 Auteur
