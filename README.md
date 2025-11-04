@@ -1,4 +1,4 @@
-# Prediction-du-diab-te-
+
 #  Prédiction du Diabète Gestationnel
 
 ## Objectif du projet
