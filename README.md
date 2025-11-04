@@ -74,7 +74,7 @@ Le dataset contient des informations cliniques et comportementales sur des patie
 
 **Maimouna Oiga**  
 Étudiante en Master 2 Sciences et Ingénierie des Données  
-📧 maimouna.oiga@gmail.com  
+📧 maimounaoiga@gmail.com  
 
 ---
 
